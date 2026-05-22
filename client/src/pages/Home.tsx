@@ -11,10 +11,10 @@ import { MessageCircle, Phone, Mail, MapPin, ChevronDown, Star, ArrowRight, Pack
 const HERO_BG = "https://d2xsxph8kpxj0f.cloudfront.net/310519663675965412/mepPtnLFes4axgCAkoX9dM/hero_bg-4Bv8whYRFmtr5pPxyLyzKf.webp";
 const PRODUCT_HERO = "https://d2xsxph8kpxj0f.cloudfront.net/310519663675965412/mepPtnLFes4axgCAkoX9dM/product_hero-i8qLNLcK6wY9gvmPUtCQpG.webp";
 const WOOD_TEXTURE = "https://d2xsxph8kpxj0f.cloudfront.net/310519663675965412/mepPtnLFes4axgCAkoX9dM/wood_texture_bg-SZUB8oDAsLjx27XdErriUj.webp";
-const COVER_STUDIO = "/manus-storage/cover_studio_bf142904.jpg";
-const PRODUCT_TABLE_SET = "/manus-storage/product_table_set_1_b74f0c9d.jpg";
-const PRODUCT_WOOD_PLANK = "/manus-storage/product_wood_plank_8072fc1e.jpg";
-const PRODUCT_WOOD_GRAIN = "/manus-storage/product_wood_grain_0bbee413.jpg";
+const COVER_STUDIO = "https://d2xsxph8kpxj0f.cloudfront.net/310519663675965412/mepPtnLFes4axgCAkoX9dM/cover_studio_ac276829.jpg";
+const PRODUCT_TABLE_SET = "https://d2xsxph8kpxj0f.cloudfront.net/310519663675965412/mepPtnLFes4axgCAkoX9dM/product_table_set_1_199ee821.jpg";
+const PRODUCT_WOOD_PLANK = "https://d2xsxph8kpxj0f.cloudfront.net/310519663675965412/mepPtnLFes4axgCAkoX9dM/product_wood_plank_515e79c8.jpg";
+const PRODUCT_WOOD_GRAIN = "https://d2xsxph8kpxj0f.cloudfront.net/310519663675965412/mepPtnLFes4axgCAkoX9dM/product_wood_grain_31cc6d0a.jpg";
 
 // ─── Intersection Observer hook ───────────────────────────────────────────────
 function useInView(threshold = 0.15) {
