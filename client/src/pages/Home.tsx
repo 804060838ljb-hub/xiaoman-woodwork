@@ -11,10 +11,10 @@ import { MessageCircle, Phone, Mail, MapPin, ChevronDown, Star, ArrowRight, Pack
 const HERO_BG = "https://d2xsxph8kpxj0f.cloudfront.net/310519663675965412/mepPtnLFes4axgCAkoX9dM/hero_bg-4Bv8whYRFmtr5pPxyLyzKf.webp";
 const PRODUCT_HERO = "https://d2xsxph8kpxj0f.cloudfront.net/310519663675965412/mepPtnLFes4axgCAkoX9dM/product_hero-i8qLNLcK6wY9gvmPUtCQpG.webp";
 const WOOD_TEXTURE = "https://d2xsxph8kpxj0f.cloudfront.net/310519663675965412/mepPtnLFes4axgCAkoX9dM/wood_texture_bg-SZUB8oDAsLjx27XdErriUj.webp";
-const COVER_STUDIO = "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/701487294_122104280163305124_9183012680201775080_n.jpg?stp=c175.0.1050.1050a_dst-jpg_s1080x1080_tt6&_nc_cat=100&ccb=1-7&_nc_sid=8a6525&_nc_ohc=tL8pUF9BijsQ7kNvwHwDZls&_nc_oc=AdpOqNfSSO3roa4UTh8DqjOa4LKlNoj8-Qk-gwZfBLtH9QTgQhTA6v_K6k5cp20sUrc&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=kjndUMQj0EKt1vb_kYS2uw&_nc_ss=7b289";
-const PRODUCT_TABLE_SET = "https://d2xsxph8kpxj0f.cloudfront.net/310519663675965412/mepPtnLFes4axgCAkoX9dM/product_table_set_1_199ee821.jpg";
-const PRODUCT_WOOD_PLANK = "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/702077858_122104280151305124_8518905634379007353_n.jpg?stp=c175.0.1050.1050a_dst-jpg_s1080x1080_tt6&_nc_cat=110&ccb=1-7&_nc_sid=8a6525&_nc_ohc=4cx8Cv5t-tEQ7kNvwHq5b9S&_nc_oc=AdoB4pKd5_df8i4uNivZo5bsWnCmIyYtY5bHGqY1siDzAsMmIZHzYNtiGznFAAF2_4s&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=kjndUMQj0EKt1vb_kYS2uw&_nc_ss=7b289";
-const PRODUCT_WOOD_GRAIN = "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/701742594_122104280115305124_5432290062072435071_n.jpg?stp=c175.0.1050.1050a_dst-jpg_s1080x1080_tt6&_nc_cat=100&ccb=1-7&_nc_sid=8a6525&_nc_ohc=6V5vDq0fuS4Q7kNvwHl4KST&_nc_oc=AdoZ6kyDLOFRM2t9WwgtmT5CCNouYb80gERtT7UKEgxymFwbVPlFHXaU9TFlyI2ipBk&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=kjndUMQj0EKt1vb_kYS2uw&_nc_ss=7b289";
+const COVER_STUDIO = "https://files.manuscdn.com/user_upload_by_module/session_file/310519663675965412/pBkFEQjGzBgbCXqQ.jpg";
+const PRODUCT_TABLE_SET = "https://files.manuscdn.com/user_upload_by_module/session_file/310519663675965412/CFxklZBqUTVBSeNK.jpg";
+const PRODUCT_WOOD_PLANK = "https://files.manuscdn.com/user_upload_by_module/session_file/310519663675965412/rOlWQdDfiZEHwVjD.jpg";
+const PRODUCT_WOOD_GRAIN = "https://files.manuscdn.com/user_upload_by_module/session_file/310519663675965412/rETNhGjjhDSnFhSs.jpg";
 
 // ─── Intersection Observer hook ───────────────────────────────────────────────
 function useInView(threshold = 0.15) {
