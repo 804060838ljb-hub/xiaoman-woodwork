@@ -13,8 +13,8 @@ const PRODUCT_HERO = "https://d2xsxph8kpxj0f.cloudfront.net/310519663675965412/m
 const WOOD_TEXTURE = "https://d2xsxph8kpxj0f.cloudfront.net/310519663675965412/mepPtnLFes4axgCAkoX9dM/wood_texture_bg-SZUB8oDAsLjx27XdErriUj.webp";
 const COVER_STUDIO = "/manus-storage/cover_studio_bf142904.jpg";
 const PRODUCT_TABLE_SET = "/manus-storage/product_table_set_1_b74f0c9d.jpg";
-const PRODUCT_WOOD_PLANK = "/manus-storage/product_wood_plank_d7e173a7.jpg";
-const PRODUCT_WOOD_GRAIN = "/manus-storage/product_wood_grain_3dfe6766.jpg";
+const PRODUCT_WOOD_PLANK = "/manus-storage/product_wood_plank_8072fc1e.jpg";
+const PRODUCT_WOOD_GRAIN = "/manus-storage/product_wood_grain_0bbee413.jpg";
 
 // ─── Intersection Observer hook ───────────────────────────────────────────────
 function useInView(threshold = 0.15) {
