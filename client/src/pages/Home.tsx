@@ -163,7 +163,7 @@ function HeroSection() {
 
           {/* Tagline */}
           <p className="animate-fade-in-up delay-300 opacity-0-init font-display text-lg md:text-xl text-white/85 font-light leading-relaxed mb-2 tracking-wide">
-            North American Black Walnut · Direct Factory Sourcing
+            North American / South American Walnut · Direct Factory Sourcing
           </p>
           <p className="animate-fade-in-up delay-400 opacity-0-init font-sans text-base text-white/65 leading-relaxed mb-10 max-w-lg">
             Premium handcrafted furniture with authentic materials and exceptional value. Every table is a testament to the natural beauty of wood grain and the art of fine craftsmanship.
@@ -257,7 +257,7 @@ function BrandStorySection() {
             <div className="wood-divider mb-6" />
 
             <p className="font-sans text-base text-[#1C1410]/70 leading-relaxed mb-4 tracking-wide">
-              Xiaoman Woodwork originates from Fujian Province, China—home to some of the world's finest timber. We believe every piece of North American black walnut carries a unique story, and every handcrafted tea table is a dialogue between human artistry and nature's beauty.
+              Xiaoman Woodwork originates from Fujian Province, China—home to some of the world's finest timber. We believe every piece of North American black walnut / South American walnut carries a unique story, and every handcrafted tea table is a dialogue between human artistry and nature's beauty.
             </p>
             <p className="font-sans text-sm text-[#1C1410]/60 leading-relaxed mb-8">
               By sourcing directly from factories, we eliminate middlemen and bring authentic craftsmanship at fair prices. From raw lumber to finished piece, we oversee every step to ensure each table stands the test of time.
@@ -266,7 +266,7 @@ function BrandStorySection() {
             {/* Features */}
             <div className="grid grid-cols-2 gap-4">
               {[
-                { icon: <Leaf size={18} />, title: "Premium Wood", desc: "North American Black Walnut" },
+                { icon: <Leaf size={18} />, title: "Premium Wood", desc: "North American Black Walnut / South American Walnut" },
                 { icon: <Shield size={18} />, title: "Quality Assured", desc: "Direct Factory Verified" },
                 { icon: <Package size={18} />, title: "Custom Orders", desc: "Made to Your Specs" },
                 { icon: <Truck size={18} />, title: "Worldwide Shipping", desc: "Safe & Secure Delivery" },
